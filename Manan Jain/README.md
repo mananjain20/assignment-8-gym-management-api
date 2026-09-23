@@ -1,5 +1,8 @@
 # Gym & Fitness Club Management REST API
 
+
+Render Link -  https://assignment-8-gym-management-api-lgcp.onrender.com
+
 A complete, beginner-friendly REST API built with Node.js, Express, MongoDB Atlas, and Passport.js (Local Strategy) to manage Gym members, their subscriptions, and fitness class bookings.
 
 ## Technologies Used
